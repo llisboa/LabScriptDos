@@ -1,0 +1,10 @@
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\LabScriptDos_V02.01\LabScript\bin\Debug\Interop.Scripting.dll
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\LabScriptDos_V02.01\LabScript\bin\Debug\LabScript.exe
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\LabScriptDos_V02.01\LabScript\bin\Debug\LabScript.pdb
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\LabScriptDos_V02.01\LabScript\bin\Debug\LabScript.xml
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\LabScriptDos_V02.01\LabScript\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\LabScriptDos_V02.01\LabScript\obj\Debug\LabScript.Resources.resources
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\LabScriptDos_V02.01\LabScript\obj\Debug\LabScript.vbproj.GenerateResource.Cache
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\LabScriptDos_V02.01\LabScript\obj\Debug\LabScript.exe
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\LabScriptDos_V02.01\LabScript\obj\Debug\LabScript.xml
+C:\inetpub\wwwroot\Intercraft2012\DownPriv\_VBNet\LabScriptDos_V02.01\LabScript\obj\Debug\LabScript.pdb

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+LabScript
+</name>
+</assembly>
+<members>
+<member name="P:LabScript.Script.Email.Valida(System.String)">
+	<summary>
+ Verifica a existência de caracteres inválidos para o formato de email padrão.
+ </summary>
+	<param name="Email">Email a ser verificado.</param>
+	<value>Endereço de email.</value>
+	<returns>True se email é válido ou false caso contrário.</returns>
+	<remarks></remarks>
+</member><member name="P:LabScript.Script.Email.Valida">
+	<summary>
+ Verifica email carregado anteriormente.
+ </summary>
+	<value>True se email é válido ou false caso contrário.</value>
+	<returns>True se email é válido ou false caso contrário.</returns>
+	<remarks></remarks>
+</member><member name="M:LabScript.Script.Email.#ctor(System.String)">
+	<summary>
+ Decompõe email em elementos.
+ </summary>
+	<param name="Email">Endereço de email.</param>
+	<remarks></remarks>
+</member><member name="P:LabScript.Script.Email.Dominio">
+	<summary>
+ Domínio do email.
+ </summary>
+	<value>Domínio do email (depois do arroba).</value>
+	<returns>Domínio do email.</returns>
+	<remarks></remarks>
+</member><member name="P:LabScript.Script.Email.Completo">
+	<summary>
+ Email completo já formatado.
+ </summary>
+	<value>Email completo já formatado.</value>
+	<returns>Email completo já formatado.</returns>
+	<remarks></remarks>
+</member><member name="P:LabScript.Script.Email.SoEndereco">
+	<summary>
+ Só o endereço do email (antes do arroba).
+ </summary>
+	<value>Só o endereço do email.</value>
+	<returns>Só o endereço do email.</returns>
+	<remarks></remarks>
+</member><member name="P:LabScript.Script.Email.Descricao">
+	<summary>
+ Descrição do email (trecho entre apóstrofos antes do email).
+ </summary>
+	<value>Descrição do email (trecho entre apóstrofos antes do email).</value>
+	<returns>Descrição do email (trecho entre apóstrofos antes do email).</returns>
+	<remarks></remarks>
+</member><member name="P:LabScript.Script.Email.PrimeiroNome">
+	<summary>
+ Primeiro nome na descrição do email.
+ </summary>
+	<value>Primeiro nome na descrição do email.</value>
+	<returns>Primeiro nome na descrição do email.</returns>
+	<remarks></remarks>
+</member><member name="P:LabScript.Script.Email.UltimoNome">
+	<summary>
+ Último nome na descrição de email.
+ </summary>
+	<value>Último nome na descrição de email.</value>
+	<returns>Último nome na descrição de email.</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>
